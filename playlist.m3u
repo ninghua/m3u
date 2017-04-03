@@ -1,5 +1,20 @@
 #EXTM3U
 
+#EXTINF:-1,凤凰资讯
+http://zv.3gv.ifeng.com/live/zixun800k.m3u8
+#EXTINF:-1,凤凰香港
+http://zv.3gv.ifeng.com/live/hongkong800k.m3u8
+#EXTINF:-1,凤凰中文
+http://zv.3gv.ifeng.com/live/zhongwen800k.m3u8
+#EXTINF:-1,凤凰视频
+http://zv.3gv.ifeng.com/live/zixun800k.m3u8
+#EXTINF:-1,香港HKS
+http://live.hkstv.hk.lxdns.com/live/hks/playlist.m3u8
+#EXTINF:-1,东方Knews24新闻高清
+http://hls.live.kksmg.com/live/live24h/playlist.m3u8
+#EXTINF:-1,英国天空新闻台
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+
 #EXTINF:-1, group-title="CNTV", CCTV-1
 http://cctv1.vtime.cntv.dnion.com:8000/live/no/11_/seg0/index.m3u8
 #EXTINF:-1, group-title="CNTV", CCTV-2
@@ -31,64 +46,7 @@ http://cctv1.vtime.cntv.dnion.com:8000/live/no/246_/seg0/index.m3u8
 #EXTINF:-1, group-title="CNTV", CCTV-15
 http://cctv1.vtime.cntv.dnion.com:8000/live/no/251_/seg0/index.m3u8
 
-#EXTINF:-1, group-title="郑州移动", 湖南卫视HD
-http://183.207.255.190:80/live/program/live/hnwshd/2300000/mnf.m3u8
-#EXTINF:-1, group-title="郑州移动", 北京卫视HD
-http://183.207.255.190:80/live/program/live/bjwshd/2300000/mnf.m3u8
-#EXTINF:-1, group-title="郑州移动", 江苏卫视HD
-http://183.207.255.190:80/live/program/live/jswshd/2300000/mnf.m3u8
-#EXTINF:-1, group-title="郑州移动", 浙江卫视HD
-http://183.207.255.190:80/live/program/live/zjwshd/2300000/mnf.m3u8
-#EXTINF:-1, group-title="郑州移动", 深圳卫视HD
-http://183.207.255.190:80/live/program/live/szwshd/2300000/mnf.m3u8
-#EXTINF:-1, group-title="郑州移动", 山东卫视HD
-http://183.207.255.190:80/live/program/live/sdwshd/2300000/mnf.m3u8
-#EXTINF:-1, group-title="郑州移动", 湖北卫视HD
-http://183.207.255.190:80/live/program/live/hbwshd/2300000/mnf.m3u8
-#EXTINF:-1, group-title="郑州移动", 广东卫视HD
-http://183.207.255.190:80/live/program/live/gdwshd/2300000/mnf.m3u8
-#EXTINF:-1, group-title="郑州移动", 黑龙江卫视HD
-http://183.207.255.190:80/live/program/live/hljwshd/2300000/mnf.m3u8
 
-#EXTINF:-1, 凤凰资讯
-http://zv.3gv.ifeng.com/live/zixun.m3u8
-#EXTINF:-1, 凤凰中文
-http://zv.3gv.ifeng.com/live/zhongwen.m3u8
-#EXTINF:-1, 凤凰香港
-http://zv.3gv.ifeng.com/live/hongkong.m3u8
-
-#EXTINF:-1group-title="江苏移动",CCTV-1
-http://183.207.249.7/PLTV/3/224/3221225530/index.m3u8
-#EXTINF:-1group-title="江苏移动",CCTV-3
-http://183.207.249.7/PLTV/3/224/3221225588/index.m3u8
-#EXTINF:-1group-title="江苏移动",CCTV-4
-http://183.207.249.7/PLTV/3/224/3221225534/index.m3u8
-#EXTINF:-1group-title="江苏移动",CCTV-5
-http://183.207.249.7/PLTV/3/224/3221225644/index.m3u8
-#EXTINF:-1group-title="江苏移动",CCTV-5+
-http://183.207.249.7/PLTV/3/224/3221225604/index.m3u8
-#EXTINF:-1group-title="江苏移动",CCTV-6
-http://183.207.249.7/PLTV/3/224/3221225548/index.m3u8
-#EXTINF:-1group-title="江苏移动",CCTV-7
-http://183.207.249.7/PLTV/3/224/3221225546/index.m3u8
-#EXTINF:-1group-title="江苏移动",CCTV-8
-http://183.207.249.7/PLTV/3/224/3221225542/index.m3u8
-#EXTINF:-1group-title="江苏移动",CCTV-9
-http://183.207.249.7/PLTV/3/224/3221225532/index.m3u8
-#EXTINF:-1group-title="江苏移动",CCTV-9(英)
-http://183.207.249.7/PLTV/3/224/3221225572/index.m3u8
-#EXTINF:-1group-title="江苏移动",CCTV-10
-http://183.207.249.7/PLTV/3/224/3221225550/index.m3u8
-#EXTINF:-1group-title="江苏移动",CCTV-11
-http://183.207.249.7/PLTV/3/224/3221225552/index.m3u8
-#EXTINF:-1group-title="江苏移动",CCTV-12
-http://183.207.249.7/PLTV/3/224/3221225556/index.m3u8
-#EXTINF:-1group-title="江苏移动",CCTV-13
-http://183.207.249.7/PLTV/3/224/3221225560/index.m3u8
-#EXTINF:-1group-title="江苏移动",CCTV-14
-http://183.207.249.7/PLTV/3/224/3221225564/index.m3u8
-#EXTINF:-1group-title="江苏移动",CCTV-15
-http://183.207.249.7/PLTV/3/224/3221225568/index.m3u8
 
 #EXTINF:-1, group-title="南京教育", 北京卫视HD
 http://202.195.240.8/hls/btv1hd.m3u8
